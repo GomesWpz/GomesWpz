@@ -1,5 +1,5 @@
 # 💫 About Me:
- Python student<br>Beginner in programming, focusing on the area of ​​Cybersecurity
+ .NET and C++ developer
 
 
 # 💻 Tech Stack:
